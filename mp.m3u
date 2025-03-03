@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:0 tvg-name="ch1530"  tvg-logo="http://troya.one/images/chIcons/1530.png"  timeshift="0", AZ: ATV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1530/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n34oNMjOQ_s7XEuyvaqataU4-br0Vg6717awFz8LRBZ5f
+#EXTINF:0 tvg-name="ch1696"  tvg-logo="http://troya.one/images/chIcons/1696.png"  timeshift="0", AZ: ATV Sinema
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1696/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n39A7SoV6vhhP8MgIsvxooyG1RPj1tw3hThfV7VTrAy9j
+#EXTINF:0 tvg-name="ch1541"  tvg-logo="http://troya.one/images/chIcons/1541.png"  timeshift="0", AZ: ARB TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1541/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3xhCVOwwG7FHsdKC_0CnxdJt9K5NffMtZWgzlmddS2fJ
+#EXTINF:0 tvg-name="ch1540"  tvg-logo="http://troya.one/images/chIcons/1540.png"  timeshift="0", AZ: ARB 24
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1540/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n31hDMPgEYrElrNasYMb-CqFaMspvUY_-aep6in8hVBXn
+#EXTINF:0 tvg-name="ch1694"  tvg-logo="http://troya.one/images/chIcons/1694.png"  timeshift="0", AZ: ARB Kepez
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1694/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3_rgqHPrku2DusarvQh8grkzfxmDFYE6K-l2RTMbaCTw
+#EXTINF:0 tvg-name="ch1532"  tvg-logo="http://troya.one/images/chIcons/1532.png"  timeshift="0", AZ: ARB Gunes
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1532/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n38J-8RnLCb9oejYbIODUAxcCl1Hfn2rDy_zwh27KhJaM
+#EXTINF:0 tvg-name="ch1531"  tvg-logo="http://troya.one/images/chIcons/1531.png"  timeshift="0", AZ: AZ TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1531/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3xZAZsnrusY-VASpdK6w5_t5zb-WhqU28YI79inoICsS
+#EXTINF:0 tvg-name="ch1699"  tvg-logo="http://troya.one/images/chIcons/1699.png"  timeshift="0", AZ: ARI Music
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1699/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n376M4RtH1NmCu4SqNV2lgjWbyc2sfyukw_L2o56AR7MN
+#EXTINF:0 tvg-name="ch1695"  tvg-logo="http://troya.one/images/chIcons/1695.png"  timeshift="0", AZ: Baku TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1695/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n36KsqnqFaVteA0WC1t-08tsTitwGoIfdeEKzCkGqzZE9
+#EXTINF:0 tvg-name="ch1533"  tvg-logo="http://troya.one/images/chIcons/1533.png"  timeshift="0", AZ: CBC
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1533/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n31seql1_E17dkHd0JwXMlA2o3de2dMLHiqzf5zgjMKgm
+#EXTINF:0 tvg-name="ch1534"  tvg-logo="http://troya.one/images/chIcons/1534.png"  timeshift="0", AZ: CBC Sport HD
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1534/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n30KGrDMK-E8NQDV_j0AtH9QuKZTJCoAx2w8GSrXN7y2n
+#EXTINF:0 tvg-name="ch1542"  tvg-logo="http://troya.one/images/chIcons/1542.png"  timeshift="0", AZ: Dunya TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1542/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3-luF28kYTWsnbWDgJO-kH0xsqrx8WUAv0fGVMQLhZ-V
+#EXTINF:0 tvg-name="ch1535"  tvg-logo="http://troya.one/images/chIcons/1535.png"  timeshift="0", AZ: Ictimai TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1535/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n38GJX12od8cS-qt_om31aVbR9L6QwRK6IaNDrWVLzZxd
+#EXTINF:0 tvg-name="ch1698"  tvg-logo="http://troya.one/images/chIcons/1698.png"  timeshift="0", AZ: Gunaz TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1698/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n387JmcypseqNSuxDuVzUTFvXCoxb27xLkh8YjstQzNt7
+#EXTINF:0 tvg-name="ch1536"  tvg-logo="http://troya.one/images/chIcons/1536.png"  timeshift="0", AZ: Idman
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1536/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n38yiN2hoelWPSSpjbyMcceTvV3NS3hFqfZVhsKQdJuzs
+#EXTINF:0 tvg-name="ch1693"  tvg-logo="http://troya.one/images/chIcons/1693.png"  timeshift="0", AZ: FTV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1693/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n33HhUYWs-rp2hP4AhF2vllbc0esLuS32Pg9d24AEvMl_
+#EXTINF:0 tvg-name="ch1701"  tvg-logo="http://troya.one/images/chIcons/1701.png"  timeshift="0", AZ: Dogru TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1701/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n350JH3mHZgryxOSQB630i7gLR8pu0xyQsyTCVem8sXuH
+#EXTINF:0 tvg-name="ch1737"  tvg-logo="http://troya.one/images/chIcons/1737.png"  timeshift="0", AZ: Live TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1737/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3-89ced9aDE76VAoSpMDRcoLk1kjPNkBufxjWQNcqjjR
+#EXTINF:0 tvg-name="ch1537"  tvg-logo="http://troya.one/images/chIcons/1537.png"  timeshift="0", AZ: Medeniyyet TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1537/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n37E2SsoT8hgKpMmNOB-64TOQAIHJFIJmbZN6UEwCQReq
+#EXTINF:0 tvg-name="ch1697"  tvg-logo="http://troya.one/images/chIcons/1697.png"  timeshift="0", AZ: Qebele TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1697/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3-npHxh4ABKje-Vc-bVwhkodYcqkowwr6xZoE0uxZIH3
+#EXTINF:0 tvg-name="ch1692"  tvg-logo="http://troya.one/images/chIcons/1692.png"  timeshift="0", AZ: Naxcivan
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1692/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n32htdJMEjkguEYO2zVe9NVQjy6qEWUTEcVq0DmofIBAg
+#EXTINF:0 tvg-name="ch1543"  tvg-logo="http://troya.one/images/chIcons/1543.png"  timeshift="0", AZ: Real TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1543/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3yu99GVrPFmHDNAtokMeIEXMfa-vS1FMQLz6AIPJgPiK
+#EXTINF:0 tvg-name="ch1538"  tvg-logo="http://troya.one/images/chIcons/1538.png"  timeshift="0", AZ: Space TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1538/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3zurn1QM9KhUyN3_Hqz85jseW3TngTLRA8UENIWBJOdC
+#EXTINF:0 tvg-name="ch1528"  tvg-logo="http://troya.one/images/chIcons/1528.png"  timeshift="0", AZ: Kanal S
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1528/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3247EuAxt-3Z8FWXFhlD9Vpr3jYPMSODIw7KIJ1AIT8S
+#EXTINF:0 tvg-name="ch1704"  tvg-logo="http://troya.one/images/chIcons/1704.png"  timeshift="0", AZ: HTV Music
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1704/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n390Q6HpqH9sFioKVxF7uq665C1AM_mA1tfygk7-6ysTz
+#EXTINF:0 tvg-name="ch1703"  tvg-logo="http://troya.one/images/chIcons/1703.png"  timeshift="0", AZ: Muz TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1703/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3wWFFfpdb7r9CejY4Tn8HIjnXA0nGd3-xEnHF2EtlzBK
+#EXTINF:0 tvg-name="ch1539"  tvg-logo="http://troya.one/images/chIcons/1539.png"  timeshift="0", AZ: Xezer TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1539/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n30yEMAw31J7YSv4xNiso8ALSRmlLP0e7MObE0XyZBfPM
+#EXTINF:0 tvg-name="ch1736"  tvg-logo="http://troya.one/images/chIcons/1736.png"  timeshift="0", AZ: Восток TV
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1736/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n34BephdSo1Dz1CNB2bS63qa_p-PCxI3ZtnvIWxX1TPjR
+#EXTINF:0 tvg-name="ch2557"  tvg-logo="http://troya.one/images/chIcons/2557.png"  timeshift="0", AZ: Show Plus
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch2557/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n39xtLvzP25BZpz50VR5Wk4aekDnFSjzDpnMSPTYkw7EZ
+#EXTINF:0 tvg-name="ch2556"  tvg-logo="http://troya.one/images/chIcons/2556.png"  timeshift="0", AZ: Muzik Azerbaycan
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch2556/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n30hgBG8PjRGYx2kUnnVSxCTewq9G0PhPrDSP2_HyxmYi
+#EXTINF:0 tvg-name="ch1509"  tvg-logo="http://troya.one/images/chIcons/1509.png"  timeshift="0", AZ: 3B Sinema HD
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1509/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n36NDBQrqki0oxZRciDBZA6hf63lF751zap27IhUfVZSw
+#EXTINF:0 tvg-name="ch1510"  tvg-logo="http://troya.one/images/chIcons/1510.png"  timeshift="0", AZ: 3B Komedi HD
+#EXTGRP:31. Azerbaijan
+http://7.troya.info:34000/ch1510/mono.m3u8?token=lord90.WZAA3OSyb4qCjbZoAM7n3xi7VuMVg8Wmw2cM827u2wsnIZYtEr7JtZgqu0CiJvup
